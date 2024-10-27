@@ -68,6 +68,10 @@
         /// <summary>
         /// Singapore
         /// </summary>
-        SG, 
+        SG,
+        /// <summary>
+        /// Sweden
+        /// </summary>
+        SE,
     }
 }

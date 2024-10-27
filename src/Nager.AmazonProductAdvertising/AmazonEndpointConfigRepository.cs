@@ -22,6 +22,7 @@
                 { AmazonEndpoint.AE, new AmazonEndpointConfig { Host = "amazon.ae", Region = "eu-west-1" } },
                 { AmazonEndpoint.UK, new AmazonEndpointConfig { Host = "amazon.co.uk", Region = "eu-west-1" } },
                 { AmazonEndpoint.US, new AmazonEndpointConfig { Host = "amazon.com", Region = "us-east-1" } },
+                { AmazonEndpoint.SE, new AmazonEndpointConfig { Host = "amazon.se", Region = "eu-west-1" } },
             };
 
 

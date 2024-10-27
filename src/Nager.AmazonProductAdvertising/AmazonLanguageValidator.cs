@@ -29,6 +29,7 @@ namespace Nager.AmazonProductAdvertising
                 { LanguageCodes.es_US, new [] { AmazonEndpoint.US } },
                 { LanguageCodes.ko_KR, new [] { AmazonEndpoint.US } },
                 { LanguageCodes.zh_TW, new [] { AmazonEndpoint.US } },
+                { LanguageCodes.sv_SE, new [] { AmazonEndpoint.SE } },
             };
 
 

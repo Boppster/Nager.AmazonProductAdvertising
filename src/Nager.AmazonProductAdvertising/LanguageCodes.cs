@@ -25,7 +25,7 @@
         en_US,
         es_US,
         ko_KR,
-        zh_TW
-
+        zh_TW,
+        sv_SE
     }
 }
